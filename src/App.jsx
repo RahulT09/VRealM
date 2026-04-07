@@ -11,11 +11,26 @@ function App() {
     <>
       <Navbar />
       <div className="max-w-7xl mx-auto pt-20 px-6">
-        <HeroSection />
-        <FeatureSection />
-        <WorkFlow />
-        <Pricing />
-        <Testimonial />
+        <div id="HeroSection" className="scroll-mt-20">
+          <HeroSection />
+        </div>
+
+        <div id="features" className="scroll-mt-20">
+          <FeatureSection />
+        </div>
+
+        <div id="Workflow" className="scroll-mt-20">
+          <WorkFlow />
+        </div>
+
+        <div id="Workflow" className="scroll-mt-20">
+          <Pricing />
+        </div>
+
+        <div id="Testimonials" className="scroll-mt-20">
+          <Testimonial />
+        </div>
+
         <Footer />
       </div>
     </>

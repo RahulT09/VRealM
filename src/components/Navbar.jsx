@@ -15,7 +15,7 @@ export const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center shrink-0">
             <img className="h-10 w-10" src={logo} alt="logo" />
-            <span className="text-xl tracking-tight">VRealM</span>
+            <span className="text-xl tracking-tight"> <a href="#HeroSection">VrealM</a></span>
           </div>
           <ul className="hidden lg:flex ml-14 space-x-12">
             {navItems.map((item, index) => (
