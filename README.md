@@ -1,4 +1,4 @@
-# VRealM 🥽
+# VRealM 
 
 > A modern Virtual Reality landing page built with **React** and **Tailwind CSS**, deployed on Vercel.
 
