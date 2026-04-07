@@ -32,7 +32,7 @@
 
 ```
 vrealm/
-├── public/
+├── public/ 
 │   └── assets/          # Static assets (images, icons)
 ├── src/
 │   ├── components/      # Reusable React components
