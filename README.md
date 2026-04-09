@@ -15,7 +15,7 @@
 - **Utility-First Styling** — Styled entirely with Tailwind CSS
 - **Fast Performance** — Optimized build deployed on Vercel's edge network
 
----  
+---    
 
 ## 🛠️ Tech Stack
 
