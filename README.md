@@ -13,7 +13,7 @@
 - **Smooth Animations** — Scroll-triggered transitions and hover effects
 - **Component-Based Architecture** — Modular React components for easy customization
 - **Utility-First Styling** — Styled entirely with Tailwind CSS
-- **Fast Performance** — Optimized build deployed on Vercel's edge network
+- **Fast Performance** — Optimized build deployed on Vercel's edge network   
 
 ---        
 
